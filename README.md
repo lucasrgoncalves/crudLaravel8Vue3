@@ -1,7 +1,6 @@
 # Sobre
 
-<p>CRUD simples desenvolvido através do Framework Laravel na versão 8 juntamente com o VUE.js em sua versão 3.</p>
-<p>Utilizado para realizar cadastramento de médicos, onde também é possível cadastrar novas especialidades e em seguida vincular ao médico.</p>
+<p>CRUD para realizar cadastramento de médicos, onde também é possível cadastrar novas especialidades e em seguida vincular ao médico.</p>
 
 ## Como utilizar:
 
