@@ -1,0 +1,22 @@
+.background-header{
+    background-color: #f9f9f9;
+}
+
+.titulo{
+    text-align: center;
+    height: 60px;
+    color: #fff;
+    background-color: #ccdce6;
+}
+
+.titulo-tabela{
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+.titulo-formulario{
+    text-align: center;
+    height: 50px;
+    color: #fff;
+    background-color: #ccdce6;
+}
