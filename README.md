@@ -5,7 +5,7 @@
 ## Como utilizar:
 
 <p>1-Criar um banco de dados com o nome "dblaravel8" em um SGBD de sua preferência</p>
-<p>2-Alterar o arquivo <b>.env</b> em caso de o seu banco nao possuir o usuário root sem senha</p>
+<p>2-Alterar o arquivo <b>.env</b> inserindo os dados para conexao com seu banco de dados</p>
 <p>3-Dentro da pasta do projeto, digitar o seguinte comando para executar as migrations (criação) das tabelas no banco de dados:</p>
 <p><code>php artisan migrate --seed</code></p>
 <p><strong>OBS:</strong> O comando acima irá criar automaticamente as cidades, estados e algumas especialidades médicas.</p>
